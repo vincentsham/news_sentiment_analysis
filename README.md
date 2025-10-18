@@ -107,6 +107,12 @@ Each news item must provide:
 
 ---
 
+## Paper
+
+![Paper](news_sentiment_analysis.pdf)
+
+---
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
