@@ -1,4 +1,6 @@
 # News Sentiment Analysis
+**Author:** Vincent Sham  
+
 
 This repository contains the implementation of a **Two-Stage News Analysis Agent** using the **LangGraph framework**. The agent is designed to classify and analyze financial news articles in two distinct stages:
 
